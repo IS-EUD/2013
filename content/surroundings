@@ -1,0 +1,565 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta about="/content/surroundings" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<link rel="shortcut icon" href="http://iseud.net/profiles/gardens/modules/acquia/gardens_misc/images/gardens.ico" type="image/vnd.microsoft.icon" />
+<meta content="Surroundings" about="/content/surroundings" property="dc:title" />
+<link rel="shortlink" href="../node/81" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="surroundings" />
+  <title>Surroundings | IS-EUD 2013</title>
+  <link type="text/css" rel="stylesheet" href="../sites/iseud.drupalgardens.com/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/iseud.drupalgardens.com/files/css/css_kaR8VM0ilFCoJHn_WJuHXQQBlw4UWRebTyLvP48GBXg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/iseud.drupalgardens.com/files/css/css_Q6VT8cp0c1PfcR8jNyDzQGp9YljzgoEecHjjDc3Nk0A.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/iseud.drupalgardens.com/files/css/css_r3vMiUfCO3jxdo8o5D_WiRXYn7RD91lO6MUfHFB8u0E.css" media="only screen and (max-device-width: 480px)" />
+<link type="text/css" rel="stylesheet" href="../sites/iseud.drupalgardens.com/files/css/css_xgp8z-eurs984qiL6MFXlFXM-z95cnSUX_Ndw3bup1E.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/iseud.drupalgardens.com/files/css/css_dI2i30Yay42rhCA2qZiLAhAW6HTh7dIB-yHHrfdzNXM.css" media="all" />
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="http://iseud.net/sites/iseud.drupalgardens.com/files/css/css_KhP6GRqxgUL2F7cFu00yfXVqa4SDNwmaZC-zKaF_6kM.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="../sites/iseud.drupalgardens.com/files/js/js_u_TdjxfF7sI7zleBR1QvyrREvnwVaBL8MSRveUEflVo.js"></script>
+<script type="text/javascript" src="../sites/iseud.drupalgardens.com/files/js/js_AxUAJA7zCde1JCuNco6JQRTM6W3ia6_faCwlfDgmQBo.js"></script>
+<script type="text/javascript" src="../sites/iseud.drupalgardens.com/files/js/js_COMsmDyrY9mzVU28X2uGvF4Ba3vd5eTo5xEO7dvCUZM.js"></script>
+<script type="text/javascript" src="../sites/iseud.drupalgardens.com/files/js/js_9gN5j8ZGSVxVFlXiLyYUZvUEDnRwLzCgBYyBrWkDURI.js"></script>
+<script type="text/javascript" src="../sites/iseud.drupalgardens.com/files/js/js_Eh5YD_NaSuBo42t5SlHViIi6IWnv39zd1xoGFNpXspU.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"acq_minima","theme_token":"sN5Rkt8cOOUx7OQRlQNTfE1se6JTK6BU2JRwCbZjTSY","js":{"0":1,"1":1,"profiles\/gardens\/modules\/acquia\/gardens_misc\/js\/gardens_misc.iframe-undo.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/jquery.ba-bbq.js":1,"modules\/overlay\/overlay-parent.js":1,"misc\/jquery.cookie.js":1,"profiles\/gardens\/modules\/contrib\/comment_notify\/comment_notify.js":1,"profiles\/gardens\/libraries\/timeago\/jquery.timeago.js":1,"profiles\/gardens\/modules\/contrib\/timeago\/timeago.js":1,"profiles\/gardens\/modules\/acquia\/gardens_client\/gardens_client.js":1,"profiles\/gardens\/modules\/acquia\/gardens_help\/gardens_help.js":1,"profiles\/gardens\/modules\/gardens\/gardens_features\/gardens_features.js":1,"sites\/iseud.net\/themes\/mythemes\/acq_minima\/local.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"modules\/overlay\/overlay-parent.css":1,"profiles\/gardens\/modules\/contrib\/comment_notify\/comment_notify.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"profiles\/gardens\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/gardens\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/gardens\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"profiles\/gardens\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/gardens\/modules\/contrib\/webform_alt_ui\/css\/webform_alt_ui.client.css":1,"profiles\/gardens\/modules\/acquia\/gardens_misc\/css\/gardens_misc.mast.css":1,"profiles\/gardens\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/gardens\/modules\/contrib\/follow\/follow.css":1,"profiles\/gardens\/modules\/acquia\/gardens_help\/gardens_help.css":1,"profiles\/gardens\/modules\/gardens\/gardens_features\/gardens_features.css":1,"profiles\/gardens\/modules\/gardens\/gardens_features\/gardens_features.jquery.ui.theme.css":1,"profiles\/gardens\/modules\/gardens\/feedback\/feedback.css":1,"sites\/iseud.net\/themes\/mythemes\/acq_minima\/defaults.css":1,"sites\/iseud.net\/themes\/mythemes\/acq_minima\/style.css":1,"sites\/iseud.net\/themes\/mythemes\/acq_minima\/palette.css":1,"sites\/iseud.net\/themes\/mythemes\/acq_minima\/custom.css":1,"sites\/iseud.net\/themes\/mythemes\/acq_minima\/advanced.css":1,"sites\/iseud.net\/themes\/mythemes\/acq_minima\/font-families.css":1,"profiles\/gardens\/modules\/gardens\/gardens_features\/css\/ie\/gardens_features.lte-ie-8.css":1}},"overlay":{"paths":{"admin":"node\/*\/webform\nnode\/*\/webform\/*\nnode\/*\/webform-results\nnode\/*\/webform-results\/*\nnode\/*\/submission\/*\nuser\/*\/edit-profile\ngardener\/*\nopenid\/authenticate\ngardens-login\nmedia\/*\/edit\nmedia\/*\/multiedit\nmedia\/*\/delete\nmedia-gallery\/detail\/*\/*\/edit\nmedia-gallery\/detail\/*\/*\/remove\nnode\/*\/multiedit\nnode\/*\/edit\nnode\/*\/delete\nnode\/*\/revisions\nnode\/*\/revisions\/*\/revert\nnode\/*\/revisions\/*\/delete\nnode\/add\nnode\/add\/*\nuser\/*\/openid\nuser\/*\/openid\/delete\noverlay\/dismiss-message\nuser\/*\/shortcuts\nadmin\nadmin\/*\nbatch\ntaxonomy\/term\/*\/edit\nuser\/*\/cancel\nuser\/*\/edit\nuser\/*\/edit\/*","non_admin":"admin\/structure\/block\/demo\/*\nuser\/register\nadmin\/structure\/mailing-list\/*\/export\nadmin\/reports\/status\/php"},"pathPrefixes":[],"ajaxCallback":"overlay-ajax"},"gardenerHelpSearchURL":"http:\/\/www.drupalgardens.com","themebuilderLogPath":"themebuilder-log-message","gardensFeatures":{"userIsAnonymous":true,"dialogUserEnabled":false},"gardenerURL":"https:\/\/www.drupalgardens.com"});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-81 node-type-page theme-markup-2 body-layout-fixed-acb" >
+  <div id="skip-to-content">
+    <a href="surroundings#skip-to-content-target">Skip directly to content</a>
+  </div>
+
+  <!--[if IE ]>
+  <div id="gardens_ie">
+  <![endif]-->
+  
+  <!--[if IE 8]>
+  <div id="gardens_ie8">
+  <![endif]-->
+  
+  <!--[if IE 7]>
+  <div id="gardens_ie7">
+  <![endif]-->
+  
+  <!--[if lt IE 7]>
+  <div id="gardens_ie-deprecated">
+  <![endif]-->
+
+    
+<div id="page" class="page clearfix tb-terminal">
+
+  <div id="page-deco-top" class="deco-page-top deco-page deco-top deco tb-scope tb-scope-prefer">
+    <div class="width deco-width inner tb-terminal">
+      <div class="layer-a layer"></div>
+      <div class="layer-b layer"></div>
+      <div class="layer-c layer"></div>
+      <div class="layer-d layer"></div>
+    </div>
+  </div>
+  
+  <div id="page-deco-bottom" class="deco-page-bottom deco-page deco-bottom deco tb-scope tb-scope-prefer">
+    <div class="width deco-width inner tb-terminal">
+      <div class="layer-a layer"></div>
+      <div class="layer-b layer"></div>
+      <div class="layer-c layer"></div>
+      <div class="layer-d layer"></div>
+    </div>
+  </div>
+    
+  <div class="page-width tb-scope">
+    <div class="lining tb-terminal"> <!-- Broken out of .page-width to avoid update issues with margin: 0 auto being undone -->
+    
+      <div id="header" class="wrapper-header wrapper clearfix tb-scope">
+      
+        <div id="header-deco-top" class="deco-header-top deco-header deco-top deco tb-scope tb-scope-prefer">
+          <div class="width deco-width inner tb-terminal">
+            <div class="layer-a layer"></div>
+            <div class="layer-b layer"></div>
+            <div class="layer-c layer"></div>
+            <div class="layer-d layer"></div>
+          </div>
+        </div>
+        
+        <div id="header-deco-bottom" class="deco-header-bottom deco-header deco-bottom deco tb-scope tb-scope-prefer">
+          <div class="width deco-width inner tb-terminal">
+            <div class="layer-a layer"></div>
+            <div class="layer-b layer"></div>
+            <div class="layer-c layer"></div>
+            <div class="layer-d layer"></div>
+          </div>
+        </div>
+      
+                  <div id="preheader" class="stack-preheader stack-pre stack col-align-last-right horizontal clearfix tb-scope">
+            <div class="stack-width inset-1 inset tb-terminal">
+              <div class="inset-2 inset tb-terminal">
+                <div class="inset-3 inset tb-terminal">
+                  <div class="inset-4 inset tb-terminal">
+    
+                                              
+                      <div class="box col-2 clearfix tb-terminal">
+                    
+                                                  <div class="col-first col left tb-height-balance tb-terminal">
+                            <div id="preheader-first-region" class="tb-region tb-scope">
+                                <div class="region region-preheader-first">
+    
+<div id="block-block-31" class="block block-block clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+         
+<div align="left"><a href="../index.html"><embed align="left" allowscriptaccess="always" height="115" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="http://iseud.drupalgardens.com/sites/iseud.drupalgardens.com/files/IS-EUD_logoanimation.swf" type="application/x-shockwave-flash" width="400"></embed></a></div>
+       </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+  </div>
+                            </div>
+                          </div> <!-- /#preheader-first-region -->
+                                                  
+                                                  <div class="col-second col left last tb-height-balance tb-terminal">
+                            <div id="preheader-second-region" class="tb-region tb-scope">
+                                <div class="region region-preheader-second">
+    
+<div id="block-block-51" class="block block-block clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+         <h3 style="padding-top:25px;">June 10-13, 2013,</h3>
+
+<h3>IT University of Copenhagen, Denmark</h3>       </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+  </div>
+                            </div>
+                          </div> <!-- /#preheader-second-region -->
+                                              
+                                            
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+                
+                
+        <!-- Navigation --> 
+                
+      </div> <!-- /#header -->
+      
+      <div id="content" class="wrapper-content wrapper clearfix tb-scope">
+        <div class="wrapper-1 tb-terminal tb-content-wrapper-1">
+      
+          <div id="content-deco-top" class="deco-content-top deco-content deco-top deco tb-scope tb-scope-prefer">
+            <div class="width deco-width inner tb-terminal">
+              <div class="layer-a layer"></div>
+              <div class="layer-b layer"></div>
+              <div class="layer-c layer"></div>
+              <div class="layer-d layer"></div>
+            </div>
+          </div>
+          
+          <div id="content-deco-bottom" class="deco-content-bottom deco-content deco-bottom deco tb-scope tb-scope-prefer">
+            <div class="width deco-width inner tb-terminal">
+              <div class="layer-a layer"></div>
+              <div class="layer-b layer"></div>
+              <div class="layer-c layer"></div>
+              <div class="layer-d layer"></div>
+            </div>
+          </div>
+        
+                    
+                      <div id="breadcrumb" class="stack-breadcrumb stack clearfix tb-scope">
+              <div class="stack-width inset-1 inset tb-terminal">
+                <div class="inset-2 inset tb-terminal">
+                  <div class="inset-3 inset tb-terminal">
+                    <div class="inset-4 inset tb-terminal">
+                      <div class="box col-1 clearfix tb-terminal">
+                        <div id="breadcrumb-region" class="col tb-region tb-scope tb-height-balance">
+                          <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="../index.html">Home</a> » <a href="http://iseud.drupalgardens.com/content/venue" title="">Venue</a></div>                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+                        
+                  
+          
+             
+          <div id="content-inner" class="stack-content-inner stack clearfix tb-scope">
+            <div class="stack-width inset-1 inset tb-terminal">
+              <div class="inset-2 inset tb-terminal">
+                <div class="inset-3 inset tb-terminal">
+                  <div class="inset-4 inset tb-terminal">
+                    <div class="box clearfix tb-terminal tb-preview-shuffle-regions">
+                      
+                                                    <div id="sidebar-a" class="col-a sidebar left tb-height-balance tb-region tb-scope tb-sidebar tb-left">
+                                  <div class="region region-sidebar-a">
+    
+<div id="block-system-navigation" class="block block-system block-menu block-none clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+        <ul class="menu"><li class="first expanded level-1 menu-link-3831"><a href="conference">Conference</a><ul class="menu"><li class="first leaf level-2 menu-link-3476"><a href="invited-speakers">Invited Speakers</a></li>
+<li class="leaf level-2 menu-link-3466"><a href="program-0">Program</a></li>
+<li class="leaf level-2 menu-link-3481"><a href="workshops">Workshops</a></li>
+<li class="leaf level-2 menu-link-3486"><a href="doctoral-consortium">Doctoral Consortium</a></li>
+<li class="last leaf level-2 menu-link-4706"><a href="previous-conferences" title="">Previous Conferences</a></li>
+</ul></li>
+<li class="leaf level-1 menu-link-8546"><a href="http://iseud.net/node/221/" title="">Social Program</a></li>
+<li class="leaf level-1 menu-link-3461"><a href="organisation-and-committees">Organisation and Committees</a></li>
+<li class="expanded level-1 menu-link-3516"><a href="participation" title="">Participation</a><ul class="menu"><li class="first leaf level-2 menu-link-3506"><a href="http://iseud.net/node/201/" title="">Registration</a></li>
+<li class="leaf level-2 menu-link-8236"><a href="http://iseud.net/node/186/" title="">Student Volunteers</a></li>
+<li class="last leaf level-2 menu-link-8241"><a href="related-events" title="">Related Events</a></li>
+</ul></li>
+<li class="last expanded active-trail level-1 menu-link-3491"><a href="http://iseud.drupalgardens.com/content/venue" title="" class="active-trail">Venue</a><ul class="menu"><li class="first leaf level-2 menu-link-3511"><a href="accommodation">Accommodation</a></li>
+<li class="leaf active-trail level-2 menu-link-3496"><a href="surroundings" class="active-trail active">Surroundings</a></li>
+<li class="leaf level-2 menu-link-3501"><a href="travel-information">Travel Information</a></li>
+<li class="last leaf level-2 menu-link-3826"><a href="general-information">General Information</a></li>
+</ul></li>
+</ul>      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+
+<div id="block-block-21" class="block block-block clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+         <p><a href="http://www.eusset.eu/"><div class="media-thumbnail-frame"><img alt="" class="media-image" height="141" style="width: 200px; height: 67px; " width="420" typeof="foaf:Image" src="../sites/iseud.drupalgardens.com/files/styles/large/public/EUSSET_rgb.png?itok=KrdkCSnS" /></div></a></p>
+       </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+
+<div id="block-block-41" class="block block-block clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+         <p><a href="http://itu.dk"><div class="media-thumbnail-frame"><img alt="" class="media-image" style="width: 200px; height: 54px; " typeof="foaf:Image" src="../sites/iseud.drupalgardens.com/files/styles/large/public/ITU&#32;logo.png?itok=kCZ4vZXE" width="354" height="96" /></div></a></p>       </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+
+<div id="block-block-46" class="block block-block clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+         <p><a href="http://springer.com/lncs"><div class="media-thumbnail-frame"><img alt="" class="media-image" height="57" style="width: 153px; height: 57px; " width="153" typeof="foaf:Image" src="../sites/iseud.drupalgardens.com/files/styles/large/public/cda_displayimage.jpeg?itok=cOT_Kah7" /></div></a></p>       </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+  </div>
+                              </div>
+                                                
+                                                      <div id="sidebar-b" class="col-b sidebar right tb-height-balance tb-region tb-scope tb-sidebar tb-right">
+                                  <div class="region region-sidebar-b">
+    
+<div id="block-block-16" class="block block-block clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+         <div><b>Registration open:</b></div>
+
+<div> </div>
+
+<div><a href="http://iseud.drupalgardens.com/node/201/">See registration options</a></div>
+
+<div> </div>
+
+<div><strong>Workshop participation:</strong></div>
+
+<p>We have 2 exciting workshops.<br />See <a href="workshops">workshop page</a> for further information and participation.</p>
+
+<p><strong>Program:</strong></p>
+
+<p><a href="http://iseud.drupalgardens.com/content/program-0">See final program</a></p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>       </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+  </div>
+                              </div>
+                              
+                                                        
+                         <!-- end sidebars -->
+                      
+                      <div id="main" class="col-c tb-height-balance tb-region tb-scope tb-primary">
+                                                <div class="pane">
+                          <a id="skip-to-content-target" class="skip-to-link" title="Target of skip-to-content link"></a>
+                                                                                <h1 class="title" id="page-title">Surroundings</h1>
+                                                                                                          <div class="tabs"></div>
+                                                                                                                                    <div id="content-area" class="content-area">  <div class="region region-content">
+    
+<div id="block-system-main" class="block block-system clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+        <div id="node-81" class="node node-page odd clearfix" about="/content/surroundings" typeof="foaf:Document">
+
+  
+    
+  <div class="float-overflow tb-terminal">
+            
+    
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <p><div class="media-thumbnail-frame"><img alt="" class="media-image" height="240" width="480" typeof="foaf:Image" src="../sites/iseud.drupalgardens.com/files/styles/large/public/Copenhagen_0.jpg?itok=6Uyt30A5" /></div></p>
+<h3>About Copenhagen</h3>
+<div>Copenhagen has the privilege to organise ECSA 2010. Attendees can be assured of a host city with the proven ability to organise major events in some of the most creative surroundings, within convenient reach for delegates from all corners of the world, providing them with the ability to meet in a compact city, within a comfortable environment.</div>
+<div> </div>
+<div><strong>History</strong>: Founded in 1167 by Bishop Absalon (1128 - 1201).</div>
+<div> </div>
+<div><strong>Latin Name</strong>: "Hafnia", the Latin word for Habour, was its first name. Later the city was more specifically named "Merchant Harbour", in medieval Danish "Købmannehavn", which then in turn became "København" (Copenhagen).</div>
+<div> </div>
+<div><strong>Language</strong>: The official language is Danish. However, most visitors will find communication easy as the Danish population's language proficiency is amongst the highest in Europe.</div>
+<div> </div>
+<div><strong>Size:</strong> The Greater Copenhagen region covers an area of 2.862 sq km. Copenhagen is 35 square miles/91 square kilometers.</div>
+<div> </div>
+<div><strong>Population of the city:</strong> 1,700,000 of which 600,000 live in the city center.</div>
+<div> </div>
+<div><strong>Most ancient buildings:</strong> Part of Brønshøj church, c. 1200. Konsistoriet (the University), c. 1420. Helligåndshuset (house of the Holy Ghost), c. 1475. Tower of Sct. Nicolai church, 1591.</div>
+<div> </div>
+<div><strong>The geographic position (Toldboden)</strong>: 55° 41´ N, 12° 36´ E</div>
+<p><iframe frameborder="0" height="350" marginheight="0" marginwidth="0" scrolling="no" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Copenhagen,+Denmark&amp;aq=1&amp;oq=cope&amp;sll=37.0625,-95.677068&amp;sspn=45.553578,60.996094&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Copenhagen,+Denmark&amp;z=11&amp;ll=55.676097,12.568337&amp;output=embed" width="425"></iframe></p><p><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Copenhagen,+Denmark&amp;aq=1&amp;oq=cope&amp;sll=37.0625,-95.677068&amp;sspn=45.553578,60.996094&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Copenhagen,+Denmark&amp;z=11&amp;ll=55.676097,12.568337" style="color:#0000FF;text-align:left">View Larger Map</a></small></p>
+<p> </p>
+<div><strong>Elevation:</strong> 16 feet/5 meters</div>
+<div> </div>
+<div><strong>Electricity:</strong> 230 volts, 50Hz, standard two pin plugs</div>
+<div> </div>
+<div><strong>Time Zone:</strong> GMT/UTC +2</div>
+<div> </div>
+<div><strong>Country Dialing Code:</strong> 45</div>
+<div> </div>
+<div><strong>Currency:</strong> Danish Kroner (DKK). 1 Euro is 7.45 DKK.</div>
+<div> </div>
+<div><strong>Water:</strong> Tap water is completely safe to drink throughout Denmark</div>
+ </div></div></div>    </div>
+    
+        
+        
+  </div>
+
+  
+  
+</div>
+      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+  </div>
+</div>
+                                                  </div>
+                      </div>
+                      
+                    </div> <!-- /.box tb-terminal -->
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+          </div> <!-- /#main -->
+        
+        </div>
+      </div> <!-- /#content -->
+        
+              <div id="footer" class="wrapper-footer wrapper clearfix tb-scope">
+        
+          <div id="footer-deco-top" class="deco-footer-top deco-footer deco-top deco tb-scope tb-scope-prefer">
+            <div class="width deco-width inner tb-terminal">
+              <div class="layer-a layer"></div>
+              <div class="layer-b layer"></div>
+              <div class="layer-c layer"></div>
+              <div class="layer-d layer"></div>
+            </div>
+          </div>
+          
+          <div id="footer-deco-bottom" class="deco-footer-bottom deco-footer deco-bottom deco tb-scope tb-scope-prefer">
+            <div class="width deco-width inner tb-terminal">
+              <div class="layer-a layer"></div>
+              <div class="layer-b layer"></div>
+              <div class="layer-c layer"></div>
+              <div class="layer-d layer"></div>
+            </div>
+          </div>
+        
+                      <div id="prefooter" class="stack-prefooter stack-pre stack clearfix tb-scope">
+              <div class="stack-width inset-1 inset tb-terminal tb-prefooter-1">
+                <div class="inset-2 inset tb-terminal tb-prefooter-2">
+                  <div class="inset-3 inset tb-terminal">
+                    <div class="inset-4 inset tb-terminal">
+                    
+                                              
+                      <div class="box col-1 clearfix tb-terminal">
+                      
+                                                  <div class="col-first col only last tb-height-balance tb-terminal">
+                            <div id="prefooter-first-region" class="tb-region tb-scope">
+                                <div class="region region-prefooter-first">
+    
+<div id="block-gardens-client-login" class="block block-gardens-client clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+        <a href="../gardener/login?destination=node%252F81">Log in</a> or <a href="../gardener/register?destination=node%252F81">Sign up</a>      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+  </div>
+                            </div>
+                          </div>
+                                                
+                                                
+                                                
+                                                
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+                
+                        
+        </div> <!-- /#footer -->
+            
+    </div> <!-- /.lining -->
+  </div> <!-- /.page-width -->
+</div> <!-- /#page -->
+    
+    <div class="region region-page-bottom">
+    <div id="block-feedback-feedback"><div class="content"><a href="../contact">Feedback</a></div></div>  </div>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+  try {
+  var pageTracker = _gat._getTracker('UA-3772277-10');
+  pageTracker._setDomainName('none');
+  pageTracker._trackPageview();
+  } catch(err) {}
+//--><!]]>
+</script>
+
+  <!--[if IE ]>
+  </div>
+  <![endif]-->
+  
+  <!--[if IE 8]>
+  </div>
+  <![endif]-->
+  
+  <!--[if IE 7]>
+  </div>
+  <![endif]-->
+  
+  <!--[if lt IE 7]>
+  </div>
+  <![endif]-->
+</body>
+</html>

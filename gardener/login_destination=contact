@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>OpenID redirect</title>
+</head>
+<body>
+<form action="https://www.drupalgardens.com/openid/provider" method="post" id="openid-redirect-form" accept-charset="UTF-8"><div><input type="hidden" name="openid.mode" value="checkid_setup" />
+<input type="hidden" name="openid.identity" value="http://specs.openid.net/auth/2.0/identifier_select" />
+<input type="hidden" name="openid.assoc_handle" value="2013-06-16T07:56:40ZSCZD" />
+<input type="hidden" name="openid.return_to" value="http://iseud.net/openid/authenticate?destination=contact" />
+<input type="hidden" name="openid.ns" value="http://specs.openid.net/auth/2.0" />
+<input type="hidden" name="openid.claimed_id" value="http://specs.openid.net/auth/2.0/identifier_select" />
+<input type="hidden" name="openid.realm" value="http://iseud.net/" />
+<input type="hidden" name="openid.ns.sreg" value="http://openid.net/extensions/sreg/1.1" />
+<input type="hidden" name="openid.sreg.required" value="nickname,email" />
+<input type="hidden" name="openid.ns.ax" value="http://openid.net/srv/ax/1.0" />
+<input type="hidden" name="openid.ax.mode" value="fetch_request" />
+<input type="hidden" name="openid.ax.required" value="mail_ao,name_ao,mail_son,name_son" />
+<input type="hidden" name="openid.ax.type.mail_ao" value="http://axschema.org/contact/email" />
+<input type="hidden" name="openid.ax.type.name_ao" value="http://axschema.org/namePerson/friendly" />
+<input type="hidden" name="openid.ax.type.mail_son" value="http://schema.openid.net/contact/email" />
+<input type="hidden" name="openid.ax.type.name_son" value="http://schema.openid.net/namePerson/friendly" />
+<input type="hidden" name="openid.ax.type.picture" value="http://axschema.org/media/image/default" />
+<input type="hidden" name="openid.ax.type.picture_time" value="http://drupalgardens.com/axschema/picture_time" />
+<input type="hidden" name="openid.ax.if_available" value="picture,picture_time" />
+<input type="hidden" name="gardens.is_overlay" value="" />
+<input type="hidden" name="gardens.user_operation" value="login" />
+<input type="hidden" name="form_build_id" value="form-mOGpA5uCwgPVS4ttcgkuzTG4sr0Fg48C-6V-O6Losw4" />
+<input type="hidden" name="form_id" value="openid_redirect_form" />
+<div class="form-actions form-wrapper" id="edit-actions"><noscript><div><input type="submit" id="edit-submit" name="op" value="Send" class="form-submit" /></div></noscript></div></div></form><script type="text/javascript">document.getElementById("openid-redirect-form").submit();</script>
+</body>
+</html>
